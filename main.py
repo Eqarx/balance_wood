@@ -11,4 +11,3 @@ def main():
 '''run'''
 if __name__ == '__main__':
     main()
-12、外星人入侵
